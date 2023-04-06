@@ -1,0 +1,7 @@
+main:
+- name: Github
+  url: http://www.github.com
+  weight: 90
+- name: Google
+  url: http://www.google.com
+  weight: 100

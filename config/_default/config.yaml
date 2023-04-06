@@ -1,0 +1,11 @@
+baseURL: "http://example.org/"
+languageCode: en-au
+title: Hugo Semantic
+
+paginate: 2
+summaryLength: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
