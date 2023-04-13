@@ -269,7 +269,7 @@ header.clone #logo .inner{
 height:70px;
 }
 header.clone #logo .inner img{
-height:24px
+height:40px
 }
 header.clone .header-info{
 display:none;
@@ -1784,7 +1784,7 @@ a.btn-main:before,
 	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 50%);
 }
 .dark .shadow_sm,
-.dark .shadow_sm,{
+.dark .shadow_sm{
 	-webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 80%);
 	-moz-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 80%);
 	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 80%);
